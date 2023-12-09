@@ -8,6 +8,6 @@
         "final":{
             "commandName": "Project",
             "commandLineArgs": "../input.txt"
-        },
+        }
     }
 }
